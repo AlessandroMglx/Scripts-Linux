@@ -8,7 +8,7 @@ This script automatically installs all essential and utility packages for Linux
 ## Basic version that installs only the minimum:
 
 ```bash
-wget https://raw.githubusercontent.com/AlessandroMagl/Scripts/main/Installer-Packages/installer-packages-linux-ultra.sh && chmod +x installer-packages-linux.sh && ./installer-packages-linux.sh
+wget https://raw.githubusercontent.com/AlessandroMagl/Scripts/main/Installer-Packages/installer-packages-linux.sh && chmod +x installer-packages-linux.sh && ./installer-packages-linux.sh
 ```
 ## Ultra version also installs additional things:
 
