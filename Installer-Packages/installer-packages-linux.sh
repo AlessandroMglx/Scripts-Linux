@@ -15,4 +15,7 @@ sudo apt install -y unzip curl bash sudo
 # Other
 sudo apt install net-tools
 
+# End
+rm installer-packages-linux.sh
+
 echo "Utility and Essential packages and commands installed successfully."
