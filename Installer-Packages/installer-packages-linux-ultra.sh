@@ -21,6 +21,5 @@ sudo apt upgate && apt upgrade
 sudo apt install git
 
 # End
-rm installer-packages-linux-ultra.sh
 
 echo "Utility and Essential packages and commands installed successfully."
