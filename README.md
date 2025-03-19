@@ -1,3 +1,3 @@
-Scripts for Linux operating systems such as Debian 11 and Ubuntu 20.04
+Scripts for Linux operating systems such as Debian 11, Debian 12, Ubuntu 20.04, Ubuntu 22.04 and Ubuntu 24.04
 
-by Alem
+by AleM
